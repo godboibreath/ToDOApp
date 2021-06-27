@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+#Обычное ToDo приложение, с использованием стилей из bootstrap
+
+##Учебный проект
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
