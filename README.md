@@ -1,6 +1,6 @@
-#Обычное ToDo приложение, с использованием стилей из bootstrap
+# Обычное ToDo приложение, с использованием стилей из bootstrap
 
-##Учебный проект
+## Учебный проект
 
 ## Getting Started with Create React App
 
